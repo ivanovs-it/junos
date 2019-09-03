@@ -8,7 +8,7 @@ help topic interfaces address
 
 Help with configuration syntax
 ```
-help referenece interfaces address
+help reference interfaces address
 ```
 
 Help on Strings/Variables
